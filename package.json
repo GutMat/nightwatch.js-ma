@@ -1,0 +1,28 @@
+{
+  "name": "nightwatch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nightwatch.conf.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "chromedriver": "^92.0.2",
+    "geckodriver": "^2.0.3",
+    "nightwatch": "^1.7.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "nightwatch tests/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GutMat/nightwatch.js-ma.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GutMat/nightwatch.js-ma/issues"
+  },
+  "homepage": "https://github.com/GutMat/nightwatch.js-ma#readme"
+}

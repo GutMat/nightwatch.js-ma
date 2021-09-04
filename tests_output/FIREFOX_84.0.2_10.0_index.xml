@@ -5,97 +5,97 @@
 
   <testsuite name="index"
     errors="0" failures="0" hostname="" id="" package="index" skipped="0"
-    tests="29" time="5.919" timestamp="">
+    tests="29" time="5.914" timestamp="">
   
-    <testcase name="Gdy Jestem na stronie startowej aplikacji" classname="index" time="1.666" assertions="1">
+    <testcase name="Gdy Jestem na stronie startowej aplikacji" classname="index" time="1.669" assertions="1">
 
     
     </testcase>
   
-    <testcase name="Kiedy Wybiorę opcję założenia nowego konta" classname="index" time="0.3000" assertions="2">
-
-    
-
-    
-    </testcase>
-  
-    <testcase name="Wtedy Powinienem zobaczyć formularz rejestracji nowego użytkownika" classname="index" time="0.02600" assertions="2">
+    <testcase name="Kiedy Wybiorę opcję założenia nowego konta" classname="index" time="0.2950" assertions="2">
 
     
 
     
     </testcase>
   
-    <testcase name="Kiedy Wprowadzę moje imię" classname="index" time="0.1270" assertions="0">
-    </testcase>
-  
-    <testcase name="Oraz Wprowadze moje nazwisko" classname="index" time="0.07300" assertions="0">
-    </testcase>
-  
-    <testcase name="Oraz Wprowadze moją nazwę użytkownika" classname="index" time="0.09000" assertions="0">
-    </testcase>
-  
-    <testcase name="Oraz Wprowadze moje hasło użytkownika" classname="index" time="0.1240" assertions="0">
-    </testcase>
-  
-    <testcase name="Oraz Wprowadze powtórnie moje hasło" classname="index" time="0.1260" assertions="0">
-    </testcase>
-  
-    <testcase name="Wtedy Powinienem móc założyć nowe konto" classname="index" time="0.009000" assertions="0">
-    </testcase>
-  
-    <testcase name="Kiedy Założę nowe konto" classname="index" time="0.2460" assertions="0">
-    </testcase>
-  
-    <testcase name="Wtedy Powinienem zobaczyć ekran startowy" classname="index" time="0.01900" assertions="2">
+    <testcase name="Wtedy Powinienem zobaczyć formularz rejestracji nowego użytkownika" classname="index" time="0.02100" assertions="2">
 
     
 
     
     </testcase>
   
-    <testcase name="Kiedy Wprowadzę moją nazwę użytkownika" classname="index" time="0.05900" assertions="0">
+    <testcase name="Kiedy Wprowadzę moje imię" classname="index" time="0.1350" assertions="0">
     </testcase>
   
-    <testcase name="Oraz Wprowadze moje hasło" classname="index" time="0.08400" assertions="0">
+    <testcase name="Oraz Wprowadze moje nazwisko" classname="index" time="0.07900" assertions="0">
     </testcase>
   
-    <testcase name="Wtedy Powinienem móc zalogować się do aplikacji" classname="index" time="0.006000" assertions="0">
+    <testcase name="Oraz Wprowadze moją nazwę użytkownika" classname="index" time="0.09600" assertions="0">
     </testcase>
   
-    <testcase name="Kiedy Zaloguje się do aplikacji" classname="index" time="0.2460" assertions="0">
+    <testcase name="Oraz Wprowadze moje hasło użytkownika" classname="index" time="0.1290" assertions="0">
     </testcase>
   
-    <testcase name="Kiedy Loguje się po raz pierwszy" classname="index" time="0.6070" assertions="1">
+    <testcase name="Oraz Wprowadze powtórnie moje hasło" classname="index" time="0.1210" assertions="0">
+    </testcase>
+  
+    <testcase name="Wtedy Powinienem móc założyć nowe konto" classname="index" time="0.01000" assertions="0">
+    </testcase>
+  
+    <testcase name="Kiedy Założę nowe konto" classname="index" time="0.2590" assertions="0">
+    </testcase>
+  
+    <testcase name="Wtedy Powinienem zobaczyć ekran startowy" classname="index" time="0.01400" assertions="2">
+
+    
 
     
     </testcase>
   
-    <testcase name="Wtedy Powinienem zobaczyć formularz startowy" classname="index" time="0.01500" assertions="1">
+    <testcase name="Kiedy Wprowadzę moją nazwę użytkownika" classname="index" time="0.06600" assertions="0">
+    </testcase>
+  
+    <testcase name="Oraz Wprowadze moje hasło" classname="index" time="0.08500" assertions="0">
+    </testcase>
+  
+    <testcase name="Wtedy Powinienem móc zalogować się do aplikacji" classname="index" time="0.005000" assertions="0">
+    </testcase>
+  
+    <testcase name="Kiedy Zaloguje się do aplikacji" classname="index" time="0.2450" assertions="0">
+    </testcase>
+  
+    <testcase name="Kiedy Loguje się po raz pierwszy" classname="index" time="0.5200" assertions="1">
 
     
     </testcase>
   
-    <testcase name="Kiedy Rozpocznę wypełnianie formularza" classname="index" time="0.2630" assertions="1">
+    <testcase name="Wtedy Powinienem zobaczyć formularz startowy" classname="index" time="0.01800" assertions="1">
 
     
     </testcase>
   
-    <testcase name="Oraz Wprowadze nazwę mojego banku" classname="index" time="0.1430" assertions="0">
-    </testcase>
-  
-    <testcase name="Oraz Wprowadze numer identyfikacyjny banku" classname="index" time="0.07900" assertions="0">
-    </testcase>
-  
-    <testcase name="Oraz Wprowadze numer konta bankowego" classname="index" time="0.08200" assertions="0">
-    </testcase>
-  
-    <testcase name="Oraz Potwierdzę wprowadzone dane" classname="index" time="0.3260" assertions="1">
+    <testcase name="Kiedy Rozpocznę wypełnianie formularza" classname="index" time="0.2610" assertions="1">
 
     
     </testcase>
   
-    <testcase name="Wtedy Powinienem móc zakończyć wypełnianie formularza" classname="index" time="0.2500" assertions="3">
+    <testcase name="Oraz Wprowadze nazwę mojego banku" classname="index" time="0.1530" assertions="0">
+    </testcase>
+  
+    <testcase name="Oraz Wprowadze numer identyfikacyjny banku" classname="index" time="0.08000" assertions="0">
+    </testcase>
+  
+    <testcase name="Oraz Wprowadze numer konta bankowego" classname="index" time="0.08600" assertions="0">
+    </testcase>
+  
+    <testcase name="Oraz Potwierdzę wprowadzone dane" classname="index" time="0.3320" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="Wtedy Powinienem móc zakończyć wypełnianie formularza" classname="index" time="0.2650" assertions="3">
 
     
 
@@ -111,23 +111,23 @@
     
     </testcase>
   
-    <testcase name="Wtedy Powinienem móc dodać nową transakcję" classname="index" time="0.2570" assertions="2">
+    <testcase name="Wtedy Powinienem móc dodać nową transakcję" classname="index" time="0.2760" assertions="2">
 
     
 
     
     </testcase>
   
-    <testcase name="Kiedy Wybiorę drugą osobę do wykonania transakcji" classname="index" time="0.2580" assertions="0">
+    <testcase name="Kiedy Wybiorę drugą osobę do wykonania transakcji" classname="index" time="0.2610" assertions="0">
     </testcase>
   
-    <testcase name="Oraz Wprowadze kwotę transakcji" classname="index" time="0.03500" assertions="0">
+    <testcase name="Oraz Wprowadze kwotę transakcji" classname="index" time="0.03800" assertions="0">
     </testcase>
   
     <testcase name="Oraz Wprowadze tytuł transakcji" classname="index" time="0.07800" assertions="0">
     </testcase>
   
-    <testcase name="Wtedy Mogę wykonać daną transakcję" classname="index" time="0.3060" assertions="2">
+    <testcase name="Wtedy Mogę wykonać daną transakcję" classname="index" time="0.2980" assertions="2">
 
     
 
